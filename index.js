@@ -3,7 +3,7 @@ var app = express()
 
 
 app.get('/', function (req, res) {
-  res.send('Min Buss!<br>test')
+  res.send('Min Buss!<br>test2')
 })
 
 
